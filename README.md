@@ -19,4 +19,7 @@ This calculator provides distinct tabs for analyzing both offensive and defensiv
 * **Status Res:** Calculates bonus or penalty percentage modifiers for status effect application based on Status Chance vs. Resistance.
 * **CC Hit:** Calculates final Crowd Control (CC) landing and missing probabilities using skill base hit chance, attacker CC Chance, and target CC Resistance.
 
-<img width="1021" height="462" alt="Stat" src="https://github.com/user-attachments/assets/807e951f-1a5c-4c00-840a-bb46044976f3" />
+<img width="1021" height="462" alt="Evasion tab with Your Evasion and Enemy Hit fields" src="https://github.com/user-attachments/assets/807e951f-1a5c-4c00-840a-bb46044976f3" />
+
+![Def vs Crit Res tab comparing two loadouts: Option A takes 5000.0, Option B takes 5010.9, so Option A saves 10.9 more HP](docs/def-vs-crit.png)
+
